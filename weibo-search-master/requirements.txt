@@ -1,4 +1,0 @@
-Pillow>=8.1.1
-
-requests~=2.32.0
-Scrapy~=2.11.2
